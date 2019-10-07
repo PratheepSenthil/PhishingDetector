@@ -1,0 +1,12 @@
+{
+    "user":
+    {
+        "name":"",
+        "password":"",
+        "search":
+        [{
+            "url":"",
+            "json":""
+        }]
+    }
+}

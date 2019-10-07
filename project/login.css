@@ -1,0 +1,15 @@
+.container{
+	padding-top: 150px;
+	width: 30%;
+	margin: auto;
+	
+}
+
+#login{
+	text-align: center;
+	color: red;
+	font-size: 30px;
+	font-family: 'Times New Roman', Times, serif;
+	font-weight: bold;
+	
+}
